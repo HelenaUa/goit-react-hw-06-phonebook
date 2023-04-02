@@ -1,6 +1,6 @@
 // import PropTypes from 'prop-types';
 import { Input } from './Filter.styled';
-import { useSelector, useDispatch } from "react-redux";
+// import { useSelector, useDispatch } from "react-redux";
 
 
 export const Filter = ({ filter, onChange }) => {
